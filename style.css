@@ -1,0 +1,59 @@
+
+  body {
+  color: rgb(10, 10, 10);     /* Text color */
+	background-color: #0a0921;  /* Background color */
+    
+}
+a {
+  color: rgb(189, 184, 255);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: rgb(255, 179, 0);
+  text-decoration: none;
+}
+
+h4 {
+  width: 900px;     /* Fix the width first*/
+  margin: 20px auto; 
+}
+
+h5 {
+  width: 150px;     /* Fix the width first*/
+  margin: 20px auto; 
+}
+
+h1 {
+    color:#ffffff;
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  width: 350px;     /* Fix the width first*/
+  margin: 20px auto; /* Let CSS compute the same left & right margins automatically*/
+}                                 
+
+h2 {
+    color: #A1C2BD;
+  font-family: "Arimo", sans-serif;
+  font-size: 20px;
+  height: 40px;
+  width: 900px;     /* Fix the width first*/
+  margin: 20px auto; 
+  
+} 
+
+h3 {
+    color:#8c88d3;
+ font-family: "Helvetica", sans-serif;
+ font-size: 30px;
+ height: 20px;
+ width: 900px;     /* Fix the width first*/
+  margin: 20px auto; 
+}
+
+.container {
+  width: 700px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
